@@ -1,4 +1,5 @@
 # Useful-scripts
+## This is a collection of some scripts that are helpful for handling fasta files
 
 Batch renaming of files with spaces in mac:
 `find . -depth -exec bash -c '
